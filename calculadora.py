@@ -1,6 +1,1 @@
-def soma(a, b):
-    return a + b
-
-x = 1
-y = 2
-print("Soma:", soma(x, y))
+print("Olá, mundo!")
